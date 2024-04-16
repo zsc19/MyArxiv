@@ -26,7 +26,7 @@
 </p>
 <div align="center">
 <p align="center">
-  <a href="#项目动机">项目动机</a>/
+  <a href="#项目动机">项目动机 </a>/
   <a href="#项目简介">项目简介</a>/
   <a href="#项目预览">项目预览</a>/
   <a href="#使用说明">使用说明</a>/
